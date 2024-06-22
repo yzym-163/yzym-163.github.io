@@ -1,0 +1,6 @@
+Game_name:使一颗心免于悲伤;
+Game_key:5acd7c51ffc286c;
+Title_img:aa.jpg;
+Title_bgm:使一颗心免于哀伤.mp3;
+Textbox_theme:imss;
+Game_Logo:;
